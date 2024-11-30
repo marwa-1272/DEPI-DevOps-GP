@@ -1,4 +1,4 @@
-version: '3'
+#version: '3'
 services:
   my-app:
     image: 772992660467.dkr.ecr.us-east-1.amazonaws.com/my-app:latest
